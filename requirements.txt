@@ -1,0 +1,3 @@
+Flask - backend and routing
+mysql-connector-python - database connectivity 
+Werkzeug- secure file upload handaling
